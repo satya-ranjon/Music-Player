@@ -1,5 +1,5 @@
 # Music-Player
 This project use html,css,javascript
-  <a href="https://satya-ranjon.github.io/Music-Player/" target="_blank">Live</a>
+  <h1><a href="https://satya-ranjon.github.io/Music-Player/" target="_blank">Demo</a></h1>
 
 <img alt="Demo" src="/img/Screenshot_1.png" />
